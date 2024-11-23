@@ -31,7 +31,8 @@
 4. Run the program:
 
     ```bash
-    python stocks.py & run.py
+    python stocks.py
+    python run.py
     ```
 
 ## Contributing
